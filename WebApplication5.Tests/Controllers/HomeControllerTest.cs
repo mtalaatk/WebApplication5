@@ -17,7 +17,7 @@ namespace WebApplication5.Tests.Controllers
         {
             // Arrange
             HomeController controller = new HomeController();
-
+           
             // Act
             ViewResult result = controller.Index() as ViewResult;
 
