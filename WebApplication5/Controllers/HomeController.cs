@@ -10,7 +10,7 @@ namespace WebApplication5.Controllers
     {
         public ActionResult Index()
         {
-            throw new Exception("exception was throwin Mahmoud");
+           // throw new Exception("exception was throwin Mahmoud");
             return View();
         }
 
